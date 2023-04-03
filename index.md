@@ -25,7 +25,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project](https://tommymcdade.github.io/leftside/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
