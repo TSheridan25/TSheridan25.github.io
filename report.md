@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Returns vs. 10-K Sentiment
 By: Taylor Sheridan
 
