@@ -1,20 +1,13 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/T-2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
+
   <br><br>
-  <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/tsheridan7251/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="/pdf/TaylorSheridan_Resume_03.09.23.pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
+  <a href="https://github.com/TSheridan25">GitHub</a> 
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
   
 theme: jekyll-theme-minimal
