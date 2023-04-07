@@ -10,8 +10,7 @@ I am a third year student at Lehigh University's College of Business. I am pursu
 
 _**[Natural language processing 10-Ks to identify sentiment](report.md)**_
 
-This report...
-
+This report aims to answer the question of whether the positive or negative sentiment in a 10-K is associated with better/worse stock returns. 
 
 <img src="output_14_2.png?raw=true"/>
 
