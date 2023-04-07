@@ -27,7 +27,7 @@ _**[Summer Internship with Accenture](https://www.accenture.com/us-en)**_
 
 I will be joining Accenture as a Consulting Summer Analyst in the firm's Philadelphia office. I am looking forward to learning how Accenture provides value to its clients and develops innovative solutions. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Acc_Logo_Black_Purple_RGB.png?raw=true"/>
 
 ---
 
@@ -35,7 +35,7 @@ I will be joining Accenture as a Consulting Summer Analyst in the firm's Philade
 
 Throughout my junior year, I have worked as an Internal Audit intern for Air Products in the firm's global headquarters located in Trexlertown, Pa. I am responsible for completing Sarbanes-Oxley control tests and assisiting in audit work. I have learned how to communicate efficiently and work collaboratively.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AirProducts-logo-pms347-JPG.jpg?raw=true"/>
 
 ---
 
@@ -43,7 +43,7 @@ Throughout my junior year, I have worked as an Internal Audit intern for Air Pro
 
 I spent my sophomore year summer in Dallas, TX where I interned with Bank of America as a Summer Analyst. During this experience, I worked alongside Merril Lynch advisors to learn how to bring value to a client, while tailoring to their specific needs. I learned more about the financial industry as a whole, specifically about banking and investments. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BofA_rgb.png?raw=true"/>
 
 ---
 
