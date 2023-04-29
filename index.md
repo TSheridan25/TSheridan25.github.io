@@ -16,7 +16,7 @@ This report aims to answer the question of whether the positive or negative sent
 
 ---
 
-_**[Eventual team project](https://tommymcdade.github.io/leftside/)**_
+_**[Boston Airbnb Price Prediction](https://strong-side-left-side.streamlit.app)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
