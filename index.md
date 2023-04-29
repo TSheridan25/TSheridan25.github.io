@@ -18,7 +18,9 @@ This report aims to answer the question of whether the positive or negative sent
 
 _**[Boston Airbnb Price Prediction](https://strong-side-left-side.streamlit.app)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project ...
+
+<img src="images/BostonAirbnb.png?raw=true"/>
 
 ---
 
