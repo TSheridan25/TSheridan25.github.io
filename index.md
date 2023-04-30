@@ -34,7 +34,7 @@ I will be joining Accenture as a Consulting Summer Analyst in the firm's Philade
 
 **[Fall/Spring Internship with Air Products](https://www.airproducts.com)**_
 
-Throughout my junior year, I have worked as an Internal Audit intern for Air Products in the firm's global headquarters located in Trexlertown, Pa. I am responsible for completing Sarbanes-Oxley control tests and assisiting in audit work. I have learned how to communicate efficiently and work collaboratively.
+Throughout my junior year, I have worked as an Internal Audit intern for Air Products in the firm's global headquarters located in Trexlertown, Pa. I am responsible for completing Sarbanes-Oxley control tests and assisting in audit work. I have learned how to communicate efficiently and work collaboratively.
 
 <img src="images/AirProducts-logo-pms347-JPG.jpg?raw=true"/>
 
