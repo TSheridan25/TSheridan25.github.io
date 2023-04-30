@@ -16,13 +16,15 @@ This report aims to answer the question of whether the positive or negative sent
 
 ---
 
-_**[Boston Airbnb Price Prediction](https://strong-side-left-side.streamlit.app)**_
+_**[Boston Airbnb Price Prediction](https://ssls-airbnb-analysis.streamlit.app)**_
 
 This project aims to suggest the price for a potential Boston Airbnb listing based on its location, among many other factors. The webpage also includes an interactive map, statistics about the desired neighborhood or census tract, price analysis using a spatical regression technique, and ultimately a price predictor that intakes information about your potential listing using a survey. 
 
 <img src="images/BostonAirbnb.png?raw=true"/>
 
 ---
+
+## Work Experience
 
 _**[Summer Internship with Accenture](https://www.accenture.com/us-en)**_
 
