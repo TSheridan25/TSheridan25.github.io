@@ -32,7 +32,7 @@ I will be joining Accenture as a Consulting Summer Analyst in the firm's Philade
 
 ---
 
-**[Fall/Spring Internship with Air Products](https://www.airproducts.com)**_
+_**[Fall/Spring Internship with Air Products](https://www.airproducts.com)**_
 
 Throughout my junior year, I have worked as an Internal Audit intern for Air Products in the firm's global headquarters located in Trexlertown, Pa. I am responsible for completing Sarbanes-Oxley control tests and assisting in audit work. I have learned how to communicate efficiently and work collaboratively.
 
@@ -40,7 +40,7 @@ Throughout my junior year, I have worked as an Internal Audit intern for Air Pro
 
 ---
 
-**[Summer Internship with Bank of America](https://www.ml.com/wealth-management-solutions.html?vsaccountid=ML-GGBG-HWW&_vsrefdom=997&cm_mmc=GWM-MLAdvisory-_-Google-PS-_-wealth_management_advisory_services-_-NB_Advisor&gclid=cj0kcqjw_r6hbhddarisamidhv_prw_1fah483vw24iqfa9v3hhql3alsrppyemii1fl4yt6hymireyaai7aealw_wcb&gclsrc=aw.ds)**_
+_**[Summer Internship with Bank of America](https://www.ml.com/wealth-management-solutions.html?vsaccountid=ML-GGBG-HWW&_vsrefdom=997&cm_mmc=GWM-MLAdvisory-_-Google-PS-_-wealth_management_advisory_services-_-NB_Advisor&gclid=cj0kcqjw_r6hbhddarisamidhv_prw_1fah483vw24iqfa9v3hhql3alsrppyemii1fl4yt6hymireyaai7aealw_wcb&gclsrc=aw.ds)**_
 
 I spent my sophomore year summer in Dallas, TX where I interned with Bank of America as a Summer Analyst. During this experience, I worked alongside Merril Lynch advisors to learn how to bring value to a client, while tailoring to their specific needs. I learned more about the financial industry as a whole, specifically about banking and investments. 
 
